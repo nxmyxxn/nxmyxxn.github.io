@@ -1,5 +1,5 @@
 ---
-title: 1. Salesforce Fundamentals
+title: 1.Salesforce Fundamentals
 date: 2025-06-28
 categories: 
 tags:
