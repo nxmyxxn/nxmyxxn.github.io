@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administrator/2025-6-28-4. Salesforce Record Access.md",
+                "file": "Administrator/2025-6-28-Salesforce Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-6-28-4. Salesforce Record Access"
+              "title": "2025-6-28-Salesforce Fundamentals"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "f8bff616233ec9b7",
   "lastOpenFiles": [
+    "Administrator/2025-6-28-Introduction & Overview.md",
+    "Administrator/2025-6-28-4. Salesforce Record Access.md",
     "Administrator/2025-6-28-2. The Big Picture - All Users.md",
-    "Administrator/2025-6-28-1. Salesforce Fundamentals.md",
+    "Administrator/2025-6-28-Salesforce Fundamentals.md",
     "Administrator/2025-6-28-11. Analytics.md",
     "Administrator/2025-6-28-10. Create New with Clicks.md",
     "Administrator/2025-6-28-9. The Future of Automation-Flow.md",
@@ -190,9 +192,7 @@
     "Administrator/2025-6-28-7. Data Management.md",
     "Administrator/2025-6-28-6. Customize the Existing User Interface.md",
     "Administrator/2025-6-28-5. Customize Standard Functionality.md",
-    "Administrator/2025-6-28-4. Salesforce Record Access.md",
     "Administrator/2025-6-28-3. Feature & Object Access.md",
-    "Administrator/2025-6-28-0. Introduction & Overview.md",
     "Platform Developer 1/2025-6-28-2. Build a Record-Triggered Flows.md",
     "Platform Developer 1/2025-6-28-Apex Basics & Database.md",
     "Platform Developer 1/2025-6-28-4. Meet Flow Trigger Explorer.md",
